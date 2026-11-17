@@ -1,0 +1,6 @@
+{
+  "name": "Лінза ШІ",
+  "description": "Офлайн-сканер об'єктів камерою на базі CameraX та Google ML Kit з візуальними рамками та українською локалізацією.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
